@@ -3,6 +3,8 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-
+    <string name="action_repeat">Repeat</string>
+    <string name="action_shuffle">Shuffle</string>
+    <string name="action_sort">Sort By</string>
     <string name="action_settings">Settings</string>
 </resources>
